@@ -1,0 +1,15 @@
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\bin\Debug\net8.0\GetInformation.exe
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\bin\Debug\net8.0\GetInformation.deps.json
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\bin\Debug\net8.0\GetInformation.runtimeconfig.json
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\bin\Debug\net8.0\GetInformation.dll
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\bin\Debug\net8.0\GetInformation.pdb
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\obj\Debug\net8.0\GetInformation.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\obj\Debug\net8.0\GetInformation.AssemblyInfoInputs.cache
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\obj\Debug\net8.0\GetInformation.AssemblyInfo.cs
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\obj\Debug\net8.0\GetInformation.csproj.CoreCompileInputs.cache
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\obj\Debug\net8.0\GetInformation.sourcelink.json
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\obj\Debug\net8.0\GetInformation.dll
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\obj\Debug\net8.0\refint\GetInformation.dll
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\obj\Debug\net8.0\GetInformation.pdb
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\obj\Debug\net8.0\GetInformation.genruntimeconfig.cache
+F:\MyProjects\Lesson01_GetInformation\GetInformation\GetInformation\obj\Debug\net8.0\ref\GetInformation.dll
